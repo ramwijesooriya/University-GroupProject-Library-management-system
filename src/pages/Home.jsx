@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div className="home flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6">
-      <h1 className="text-4xl font-bold text-blue-700 mb-6">
+      <h1 className="text-4xl font text-blue-700 mb-6">
         Library Management System
       </h1>
       <nav className="flex gap-4 mb-6">
